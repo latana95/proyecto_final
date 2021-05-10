@@ -1,0 +1,4 @@
+1. Agregué palabras clave como "Italia; Concurso de talentos, Clásico, Pop-Ópera" , en especial en home/index
+2. Eliminé secciones innecesarias de mi página y lo acople al home, como la galería y una descripción que reemplaza el "sobre nosotros".
+3. Traté de ponerla lo más responsive que pude, inspirandome en otras páginas.
+4. Quise poner un video en loop en "Contacto" pero no se me reproduce :(
